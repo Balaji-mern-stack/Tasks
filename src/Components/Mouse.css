@@ -1,0 +1,9 @@
+.hover-box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+    transition: background-color 0.3s;
+}
